@@ -1,0 +1,50 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+.title{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
+.productpage{
+    background-color: rgb(189, 189, 247);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.tr,.td {
+    background-color: white;
+    border: 5px solid rgb(189, 189, 247);
+    border-radius: 10px;
+    padding: 10px 20px 30px 20px;
+}
+td img{
+    padding-bottom: 30px;
+}
+.prod {
+    padding-top: 10px;
+    margin-left: 460px;
+}
+.name{
+    margin: 0px 2px;
+    text-align: center;
+}
+.price{
+    margin: 0px 2px;
+    text-align: center;
+    color: blue;
+}
+button{
+    color: white;
+    background-color: rgb(51, 201, 51);
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+
