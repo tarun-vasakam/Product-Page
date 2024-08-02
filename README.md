@@ -1,2 +1,2 @@
 # Product-Page
-Task on product page
+Product Page layout using HTML and CSS
